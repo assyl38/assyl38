@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?ssl=1" alt="Profile Banner" width="800">
+<img src="https://s3.us-west-1.amazonaws.com/mindbowser.com-content/wp-content/uploads/2020/10/29140505/Data-Science-For-SaaS-Companies-Banner.png" alt="Profile Banner" width="800">
 
 Salutations, fellow explorer of the digital realm! I extend to you a warm invitation to venture through the virtual dimensions of my GitHub profile, where the alchemy of Data Science and the artistry of Web Development converge harmoniously.
 

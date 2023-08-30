@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Hello there, fellow coder and curious mind! Welcome to my GitHub profile. Here, you'll find a blend of data science wizardry and web development magic. Allow me to take you on a tour of what you can expect to discover in this repository wonderland.
 
 <!--
 **assyl38/assyl38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -29,7 +29,6 @@ Enthusiastic discourse is the elixir of growth. Feel free to strike up conversat
 To summon me from the digital ether, you can reach out through these portals:
 
 - 📧 [Email](mailto:assyl.ammar.official.com) : assyl.ammar.official@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/assyl-ammar/)
 
 May our paths converge in the pursuit of knowledge, insights, and prosperous trades.
 
